@@ -11,3 +11,9 @@
 *.lai
 *.la
 *.a
+*.g2o
+#director
+build/
+build-src-Desktop-Default/
+devel/
+

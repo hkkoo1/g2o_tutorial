@@ -1,0 +1,8 @@
+ba_synth_data.cpp
+camera_projection.cpp
+edge_pose_landmark_reproject.cpp
+edge_pose_pose.cpp
+pose_adjust.cpp
+register_types.cpp
+vertex_landmarkxyz.cpp
+vertex_pose.cpp
